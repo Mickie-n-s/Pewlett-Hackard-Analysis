@@ -15,4 +15,8 @@ We were approached by Pewlett Hackard executives to analyze their current prospe
 ## Summary
 
 As shown in the data above, PH will need to replace 72,48 retiring employees in the near future. With a population of 1,549 mentor-age employees ready to train up the up-and-coming generation on PH workers, each of those mentors will need to be responsible for approximately 70 mentees in order to train enough replacements for the jobs to all be adequately filled.
-An additional concern would be whether the mentors available are in proper departments to mentor the upcoming employees. As seen in the image below 
+An additional concern would be whether the mentors available are in proper departments to mentor the upcoming employees. As seen in the image below, the vast majority of non-retirement age employees are staff and engineers, while the majority of the retiring staff are, understandably, seniors in these departments. With the exception of managment, from which only two people will be retiring, it appears that the mentors are roughly proportional with the need for mentorship. This is good. They will still, however, each need to train roughly 70 new employees, demanding a massive amount of their time and expertise. This is bad. 
+
+![](https://github.com/Mickie-n-s/Pewlett-Hackard-Analysis/blob/main/Mentor%20Titles.png)
+
+Overall, PH will need to do a large amount of hiring in the next few years. That said, there are adequate mentors that, given enough time, the incoming employees could all be trained and mentored in large groups. Effort should be made to codify intake training methods to ensure that all of the incoming staff are given adequate training. 
